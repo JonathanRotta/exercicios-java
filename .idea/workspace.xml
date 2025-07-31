@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83e08bca-f0ec-4707-983a-523e5c860114" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercicios/professorsaugo/intermediario/Exercicio07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/professorsaugo/intermediario/Exercicio08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,27 +40,15 @@
     "Application.Exercicio04.executor": "Run",
     "Application.Exercicio05.executor": "Run",
     "Application.Exercicio06.executor": "Run",
-    "Application.Exercicio07.executor": "Run",
+    "Application.Exercicio07.executor": "Debug",
+    "Application.Exercicio08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercicio07">
-    <configuration name="Exercicio03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicios.professorsaugo.basico.Exercicio03" />
-      <module name="Exercicios" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicios.professorsaugo.basico.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercicio08">
     <configuration name="Exercicio04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicios.professorsaugo.basico.Exercicio04" />
       <module name="Exercicios" />
@@ -112,13 +101,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.professorsaugo.intermediario.Exercicio08" />
+      <module name="Exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicios.professorsaugo.intermediario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio08" />
         <item itemvalue="Application.Exercicio07" />
         <item itemvalue="Application.Exercicio06" />
         <item itemvalue="Application.Exercicio05" />
         <item itemvalue="Application.Exercicio04" />
-        <item itemvalue="Application.Exercicio03" />
       </list>
     </recent_temporary>
   </component>
