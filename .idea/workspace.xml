@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83e08bca-f0ec-4707-983a-523e5c860114" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/professorsaugo/basico/Exercicio01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/professorsaugo/basico/Exercicio02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/professorsaugo/basico/Exercicio03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/professorsaugo/basico/Exercicio04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/professorsaugo/intermediario/Exercicio05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/professorsaugo/intermediario/Exercicio06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios/professorsaugo/intermediario/Exercicio06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios/professorsaugo/intermediario/Exercicio06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="30ZQJhZi81Chj21qlqx8ewagQdC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,26 +39,14 @@
     "Application.Exercicio03.executor": "Run",
     "Application.Exercicio04.executor": "Run",
     "Application.Exercicio05.executor": "Run",
+    "Application.Exercicio06.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercicio05">
-    <configuration name="Exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicios.professorsaugo.basico.Exercicio01" />
-      <module name="Exercicios" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicios.professorsaugo.basico.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercicio06">
     <configuration name="Exercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicios.professorsaugo.basico.Exercicio02" />
       <module name="Exercicios" />
@@ -123,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.professorsaugo.intermediario.Exercicio06" />
+      <module name="Exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicios.professorsaugo.intermediario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio06" />
         <item itemvalue="Application.Exercicio05" />
         <item itemvalue="Application.Exercicio04" />
         <item itemvalue="Application.Exercicio03" />
         <item itemvalue="Application.Exercicio02" />
-        <item itemvalue="Application.Exercicio01" />
       </list>
     </recent_temporary>
   </component>
