@@ -35,7 +35,7 @@ public class Exercicio08 {
                 }else {
                     resultado = numero1 / numero2;
                     break;
-                }   
+                }
         }
         System.out.println("O resultado da operação é " + resultado);
         scanner.close();
