@@ -1,6 +1,7 @@
 package exercicios.professorsaugo.avancado;
 
 import java.sql.SQLOutput;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Exercicio10 {
@@ -11,8 +12,17 @@ public class Exercicio10 {
 
         char[] letras = palavra.toCharArray();
 
-        for (char i: letras) {
-            System.out.println(i);
+        char[] letrasInvertidas = new char[letras.length];
+
+        for (int i = 0; i < letras.length; i++) {
+            letrasInvertidas[i] = letras[letras.length - 1 - i];
+
+        }
+
+        if (Arrays.equals(letras,letrasInvertidas)){
+            System.out.println("É palíndromo");
+        }else{
+            System.out.println("Não é palíndromo");
         }
 
         sc.close();
